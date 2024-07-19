@@ -3,7 +3,7 @@
 
 [package]
   distribution = "2201.6.0"
-  name = "callchoreoadaptivescript"
+  name = "AsgardeoCallChoreo"
   org = "orgnilukaprod"
   version = "0.1.0"
 
